@@ -1,0 +1,21 @@
+footer h1{
+    font-size: 35px;
+    color: white;
+}
+footer h4{
+    font-size: 15px;
+    font-style: unset;
+    color: white;
+}
+footer p{
+    color: white;
+    font-size: 15px;
+    font-style: unset;
+}
+a#ft:hover{
+    color:rgb(192, 192, 192);
+    text-decoration: underline;
+}
+a#ft{
+    color: white;
+}
